@@ -1,0 +1,37 @@
+{
+  "name": "react-jianli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --config webpack.config-dev.js --colors --progress --hot --content-base build",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-3": "^6.22.0",
+    "css-loader": "^0.26.1",
+    "marked": "^0.3.6",
+    "prismjs": "^1.6.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-prism": "^4.0.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "extract-text-webpack-plugin": "^2.1.0",
+    "html-webpack-plugin": "^2.28.0",
+    "open-browser-webpack-plugin": "0.0.4"
+  }
+}
