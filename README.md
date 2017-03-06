@@ -2,7 +2,7 @@
 
 > 
 
-[预览](http://songhao888.cn/)
+[预览](http://songhao888.cn/jianli/)
 
 ## 使用方法
 
