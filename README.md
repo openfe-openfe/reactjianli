@@ -21,7 +21,9 @@ npm run build
 
 ## 重要说明：
  该项目来自下面两个仓库
+ ```
  [vue版](https://zhuanlan.zhihu.com/p/25202080?refer=study-fe)
- [react版]https://github.com/ShiningDan/react-animation-resume）
 
+ [react版]https://github.com/ShiningDan/react-animation-resume）
+```
  ## 喜欢可以给个star
