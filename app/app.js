@@ -18,22 +18,20 @@ class ReactClass extends React.Component {
 
 ## 个人爱好
 
-	   技能树：
-			*html(5)，css(3)，ES5，ES6，scss，node.js；
-			*<del>php，mysql，asp.net,asp</del>;（这些很久不用了）
-	   生活：
-			*乒乓球,电影；
-			*穿越火线（大学玩的真的是昏天暗地啊，间接证明是真爱！😝😝工作后忙了，基本没时间玩了）；
-
+	1. 技能树：
+			html(5)，css(3)，ES5，ES6，scss，node.js；
+			php，mysql，asp.net,asp（这些很久不用了）;
+	2. 生活：
+			乒乓球,电影；
+			穿越火线（大学玩的真的是昏天暗地啊，间接证明是真爱！😝😝工作后忙了，基本没时间玩了）；
 
 ## 博客
 
-	 *[github](https://github.com/songhaoreact)
-	 *[个人博客](http://songhao888.cn)
-## (更多内容，大家随意添加)
+**GitHub: **https://github.com/songhaoreact
+** 博客: http://songhao888.cn/**
 
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/ShiningDan/reactjianli)，打造你自己的简历！`;
 
-`;
 		
 		this.styleEditorContent = [`/*
 * Hello, 我是宋浩
@@ -62,14 +60,14 @@ color: #14d112; background: #000000;
 /* 再加一点 3D 效果，更加地酷炫 */
 html{
 -webkit-perspective: 1000px;
-		perspective: 1000px;
+perspective: 1000px;
 }
 .styleEditor {
 position: fixed; left: 0; top: 0; 
 -webkit-transition: none; 
 transition: none;
 -webkit-transform: rotateY(10deg) translateZ(-100px) ;
-		transform: rotateY(10deg) translateZ(-100px) ;
+transform: rotateY(10deg) translateZ(-100px) ;
 }
 /* 不知道以上对代码框的修改你是否喜欢呢？ */
 
@@ -111,19 +109,19 @@ border-bottom: 1px solid;
 margin: 1em 0 .5em;
 }
 .resumeEditor h3{
-	display: inline-block;
-	margin: 0.5em 0;
+display: inline-block;
+margin: 0.5em 0;
 }
 .resumeEditor a{
-	color: #000;
+color: #000;
 }
 .resumeEditor ul{
-	list-style: none;
+list-style: none;
 }
 .resumeEditor ul>li::before {
-	content: "•";
-	margin-left: 1em;
-	margin-right: 0.5em;
+content: "•";
+margin-left: 1em;
+margin-right: 0.5em;
 }
 .resumeEditor blockquote {
 margin: 1em;
