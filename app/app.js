@@ -51,6 +51,13 @@ transition: all .3s;
 html {
 color: #14d112; background: #000000; 
 }
+.styleEditor {
+  padding: .5em;
+  border: 1px solid;
+  margin: .5em;
+  overflow: auto;
+  width: 45vw; height: 90vh;
+}
 /* 哈哈，有没有一点儿黑客效果*/
 /* 再加一点 3D 效果，更加地酷炫 */
 html{
