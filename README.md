@@ -24,5 +24,3 @@ npm run build
  
  [vue版](https://zhuanlan.zhihu.com/p/25202080?refer=study-fe);
  [vue版动态炫酷简历视频教程](http://www.jirengu.com/app/watch/1559/1?vsum=1);
-
- ##如果这个仓库对你有帮助的话，帮忙点个star
