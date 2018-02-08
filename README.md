@@ -7,7 +7,7 @@
 ## 使用方法
 
 ``` bash
-git clone https://github.com/songhaoreact/reactjianli.git
+git clone https://github.com/openfe-openfe/reactjianli.git
 cd reactjianli
 npm install
 npm start
